@@ -1,0 +1,14 @@
+layout_spectrum: 0.5979307992383838
+typography_spectrum: 0.5978458456229419
+color:
+  brandStrength: 0.2080827048048377
+  lightness: 0.6458029914647341
+  saturation: 0.7903018400538713
+  rhythmicContrast: 0.25893788086250424
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: CarmelBeach
