@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'http://carmelart.org/artist-description/?id=95'
+isBasedOnUrl: 'http://carmelart.org/artist-description/?id=58'
 title: Artist Description | Carmel Art Association
-datePublished: '2016-08-26T18:21:55.831Z'
-dateModified: '2016-08-26T18:21:51.794Z'
+datePublished: '2016-08-26T18:24:20.362Z'
+dateModified: '2016-08-26T18:22:34.973Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-26-artist-description-or-carmel-art-association.md
